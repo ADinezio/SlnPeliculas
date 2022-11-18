@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaPeliculas", "LibreriaPeliculas\LibreriaPeliculas.csproj", "{BB22CC99-8600-4558-B589-A23FD15ADBEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAppLibreria", "WindowsAppLibreria\WindowsAppLibreria.csproj", "{9735A347-EC0B-4ACB-8DFC-0A1B39E24381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB22CC99-8600-4558-B589-A23FD15ADBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB22CC99-8600-4558-B589-A23FD15ADBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB22CC99-8600-4558-B589-A23FD15ADBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB22CC99-8600-4558-B589-A23FD15ADBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9735A347-EC0B-4ACB-8DFC-0A1B39E24381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9735A347-EC0B-4ACB-8DFC-0A1B39E24381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9735A347-EC0B-4ACB-8DFC-0A1B39E24381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9735A347-EC0B-4ACB-8DFC-0A1B39E24381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E351E89-0930-4439-88DE-649CFA5F3CE3}
+	EndGlobalSection
+EndGlobal
